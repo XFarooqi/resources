@@ -1,0 +1,12 @@
+There are a few potential drawbacks and bad things in the MLH hackathons that students should be aware of.
+
+Limited Availability: MLH hackathons are only hosted in certain regions, and may not be available to all students. This can limit access to these opportunities for those who live in areas where these events are not held.
+
+Cost: Attending MLH hackathons can be expensive, especially for students who have to cover travel and accommodation expenses. This may make these events inaccessible for some students.
+
+Lack of Diversity: Although MLH is committed to promoting diversity and inclusion, some students may still feel like they are not well-represented at these events. For example, some groups may feel like they are not adequately represented in terms of gender, race, or socioeconomic status.
+
+Intensity: MLH hackathons can be intense and fast-paced, which can be challenging for some students. This may make these events more suitable for experienced coders and less accessible for those who are just starting out.
+
+Limited Focus: MLH hackathons often focus on specific technologies or programming languages, which may not align with all students' interests or career goals. This can make these events less appealing or relevant for some students.
+
